@@ -10,7 +10,7 @@ using System.Reflection;
 using WebDriverManager;
 using WebDriverManager.DriverConfigs.Impl;
 
-namespace CodeHouseTestAutomationFramework.Utility
+namespace ViperAutomation.Utility
 {
     class Accessibility
     {
